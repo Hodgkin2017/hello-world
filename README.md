@@ -91,6 +91,7 @@ When you include a task list in the first comment of an Issue, you will see a he
 And, of course emoji! :sparkles: :camel: :boom:
 
 Tables:
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
